@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anhngd
-- 👀 I’m interested in Big Data, AI and Blockchain
+- 👀 I’m interested in Data, AI
 
 <!---
 anhngd/anhngd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
